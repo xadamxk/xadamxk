@@ -1,9 +1,21 @@
 ### Hi there, I'm Adam 👋
-
 [![](https://img.shields.io/badge/-GitHub-%23181717?style=flat&logo=github)](https://github.com/xadamxk)
 [![](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/adam-koewler-526957a3/)
 [![](https://img.shields.io/badge/Twitch-purple?style=flat&logo=twitch)](https://www.twitch.tv/xadamxk)
 [![](https://img.shields.io/badge/Reddit-gray?style=flat&logo=reddit)](https://www.reddit.com/user/xadamxk/)
+
+#### Web Extensions
+- https://github.com/xadamxk/HFX2.0
+- https://github.com/xadamxk/LTE
+- https://github.com/xadamxk/Userscripts
+- https://github.com/xadamxk/HF-Userscripts
+#### Magic Mirror Modules
+- https://github.com/xadamxk/MMM-LOLESPORTS-STANDINGS
+- https://github.com/xadamxk/MMM-LOLESPORTS-SCHEDULES
+- https://github.com/xadamxk/MMM-CHAMPIONSQUEUE-LEADERBOARD
+#### Gaming
+- https://github.com/xadamxk/LCU-Enhancement-Suite
+- https://github.com/xadamxk/LeagueStats
 
 <details> 
   <summary><b>My Tech Stack</b></summary>
@@ -73,20 +85,4 @@
   <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"</img>
   <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"</img>
   <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"</img>
- 
 </details>
-
-<!--
-**xadamxk/xadamxk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
