@@ -7,6 +7,7 @@
 #### Web Extensions
 - https://github.com/xadamxk/HFX2.0
 - https://github.com/xadamxk/LTE
+- https://github.com/xadamxk/HFGS
 - https://github.com/xadamxk/Userscripts
 - https://github.com/xadamxk/HF-Userscripts
 #### Magic Mirror Modules
@@ -16,6 +17,7 @@
 #### Gaming
 - https://github.com/xadamxk/LCU-Enhancement-Suite
 - https://github.com/xadamxk/LeagueStats
+- https://github.com/xadamxk/hf-breakout
 
 <details> 
   <summary><b>My Tech Stack</b></summary>
