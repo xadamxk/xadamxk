@@ -19,6 +19,7 @@
 - https://github.com/xadamxk/LCU-Enhancement-Suite
 - https://github.com/xadamxk/LeagueStats
 - https://github.com/xadamxk/hf-breakout
+- https://github.com/xadamxk/HF-Blackjack
 
 <details> 
   <summary><b>My Tech Stack</b></summary>
