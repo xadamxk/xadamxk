@@ -6,20 +6,20 @@
 [![](https://img.shields.io/badge/HackForums-%232f3b5d?logo=data:image/png;base64,AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAACAgIB+AAAA/QAAAP0AAAD9AAAA/QAAAP0AAAD9AAAA/QAAAP0AAAD9AAAA/QAAAP0AAAD9AAAA/QAAAP2AgIB+AAAA/QAAAP0AAAD9AAAA/QAAAP0AAAD9AAAA/QAAAP0AAAD9AAAA/QAAAP0AAAD9AAAA/QAAAP0AAAD9AAAA/QAAAP0AAAD9tLeL/bS3i/20t4v9tLeL/bS3i/20t4v9tLeL/bS3i/20t4v9tLeL/bS3i/20t4v9AAAA/QAAAP0AAAD9GRkZ/djY0f3w8Oj98PDo/fDw6P3w8Oj9AAAA/QAAAP3w8Oj98PDo/fDw6P3w8Oj92NjR/RkZGf0AAAD9cHBwjgAAAP1HR0D919nC/dfZwv0AAAD9AAAA/QAAAP0AAAD9AAAA/QAAAP3X2cL919nC/UdHQP0AAAD9cHBwjvDw8A4gICDeAAAA/Xh5Y/2+wZr9vsGa/b7Bmv2+wZr9vsGa/b7Bmv2+wZr9vsGa/Xh5Y/0AAAD9ICAg3vDw8A7///8AwMDAPgAAAP0AAAD9AAAA/QAAAP0AAAD9AAAA/QAAAP0AAAD9AAAA/QAAAP0AAAD9AAAA/cDAwD7///8A////AP///wAAAAD9AAAA/QAAAP0AAAD9AAAA/QAAAP0AAAD9AAAA/QAAAP0AAAD9AAAA/QAAAP3///8A////AP///wD///8AAAAA/QAAAP3////9/////f////3////9/////f////3////9/////QAAAP0AAAD9////AP///wD///8A////AAAAAP0AAAD99/f3/ff39/339/f99/f3/ff39/339/f99/f3/ff39/0AAAD9AAAA/f///wD///8A////AP///wAAAAD9AAAA/efn5/3n5+f95+fn/efn5/3n5+f95+fn/efn5/3n5+f9AAAA/QAAAP3///8A////AP///wD///8AAAAA/QAAAP3Y2Nj92NjY/djY2P3Y2Nj92NjY/djY2P3Y2Nj92NjY/QAAAP0AAAD9////AP///wD///8A////AAAAAP0AAAD9ysrK/f////3////9/////f////3////9/////crKyv0AAAD9AAAA/f///wD///8A////APDw8A4AAAD9AAAA/cnJyf3Jycn9ycnJ/cnJyf3Jycn9ycnJ/cnJyf3Jycn9AAAA/QAAAP3///8A////AP///wDw8PAOAAAA/QAAAP0AAAD9AAAA/QAAAP0AAAD9AAAA/QAAAP0AAAD9AAAA/QAAAP0AAAD9////AP///wD///8A////AICAgH4AAAD9AAAA/QAAAP0AAAD9AAAA/QAAAP0AAAD9AAAA/QAAAP0AAAD9gICAfv///wD///8AgAEAAAAAAAAAAAAAAAAAAAAAAACAAQAAwAMAAMADAADAAwAAwAMAAMADAADAAwAAwAMAAMADAADAAwAA4AcAAA==)](https://hackforums.net/member.php?action=profile&uid=1306528)
 
 #### Web Extensions
-- https://github.com/xadamxk/HFX2.0
-- https://github.com/xadamxk/LTE
-- https://github.com/xadamxk/HFGS
-- https://github.com/xadamxk/Userscripts
-- https://github.com/xadamxk/HF-Userscripts
+- [HFX2.0](https://github.com/xadamxk/HFX2.0): 🧰 Native-web extension that adds over 50 features to hackforums.net
+- [LTE](https://github.com/xadamxk/LTE): 🔍 Easily cite elements for selenium based projects
+- [HFGS](https://github.com/xadamxk/HFGS): 🃏 Various tools for gaming & gambling on HF!
+- [Userscripts](https://github.com/xadamxk/Userscripts): 📖 Userscripts for various websites
+- [HF-Userscipts](https://github.com/xadamxk/HF-Userscripts): 📃 List of my own HF userscripts
 #### Magic Mirror Modules
-- https://github.com/xadamxk/MMM-LOLESPORTS-STANDINGS
-- https://github.com/xadamxk/MMM-LOLESPORTS-SCHEDULES
-- https://github.com/xadamxk/MMM-CHAMPIONSQUEUE-LEADERBOARD
+- [MMM-LOLESPORTS-STANDINGS](https://github.com/xadamxk/MMM-LOLESPORTS-STANDINGS): 🥇 Display LOL Esports league standings on your magic mirror!
+- [MMM-LOLESPORTS-SCHEDULES](https://github.com/xadamxk/MMM-LOLESPORTS-SCHEDULES): 📅 Display LOL Esports league schedules on your magic mirror!
+- [MMM-CHAMPIONSQUEUE-LEADERBOARD](https://github.com/xadamxk/MMM-CHAMPIONSQUEUE-LEADERBOARD): 🏆 Displays LOL Champions Queue standings on your magic mirror!
 #### Gaming
-- https://github.com/xadamxk/LCU-Enhancement-Suite
-- https://github.com/xadamxk/LeagueStats
-- https://github.com/xadamxk/hf-breakout
-- https://github.com/xadamxk/HF-Blackjack
+- [LCU-Enhancement-Suite](https://github.com/xadamxk/LCU-Enhancement-Suite): 🎮 Enhancement suite for the League of Legends Client
+- [LeagueStats](https://github.com/xadamxk/LeagueStats):  Get live summoner stats (League of Legends)
+- [hf-breakout](https://github.com/xadamxk/hf-breakout): 👾 HTML5 Canvas Breakout Game with Custom Level Generator
+- [HF-Blackjack](https://github.com/xadamxk/HF-Blackjack): ♣️ Basic strategy table implementation for blackjack on HF
 
 <details> 
   <summary><b>My Tech Stack</b></summary>
