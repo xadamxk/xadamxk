@@ -7,13 +7,14 @@
 #### Web Extensions
 - [HFX2.0](https://github.com/xadamxk/HFX2.0): 🧰 Native-web extension that adds over 50 features to hackforums.net
 - [LTE](https://github.com/xadamxk/LTE): 🔍 Easily cite elements for selenium based projects
-- [HFGS](https://github.com/xadamxk/HFGS): 🃏 Various tools for gaming & gambling on HF!
+- [HFGS](https://github.com/xadamxk/HFGS): 🃏 Various tools for gaming & gambling on HF
 - [Userscripts](https://github.com/xadamxk/Userscripts): 📖 Userscripts for various websites
 - [HF-Userscipts](https://github.com/xadamxk/HF-Userscripts): 📃 List of my own HF userscripts
 #### Magic Mirror Modules
-- [MMM-LOLESPORTS-STANDINGS](https://github.com/xadamxk/MMM-LOLESPORTS-STANDINGS): 🥇 Display LOL Esports league standings on your magic mirror!
-- [MMM-LOLESPORTS-SCHEDULES](https://github.com/xadamxk/MMM-LOLESPORTS-SCHEDULES): 📅 Display LOL Esports league schedules on your magic mirror!
-- [MMM-CHAMPIONSQUEUE-LEADERBOARD](https://github.com/xadamxk/MMM-CHAMPIONSQUEUE-LEADERBOARD): 🏆 Displays LOL Champions Queue standings on your magic mirror!
+- [MMM-LOLESPORTS-STANDINGS](https://github.com/xadamxk/MMM-LOLESPORTS-STANDINGS): 🥇 Display LOL Esports league standings on your magic mirror
+- [MMM-LOLESPORTS-SCHEDULES](https://github.com/xadamxk/MMM-LOLESPORTS-SCHEDULES): 📅 Display LOL Esports league schedules on your magic mirror
+- [MMM-CHAMPIONSQUEUE-LEADERBOARD](https://github.com/xadamxk/MMM-CHAMPIONSQUEUE-LEADERBOARD): 🏆 Displays LOL Champions Queue standings on your magic mirror
+- [Cookiecutter-Magic-Mirror-Module](https://github.com/xadamxk/MMM-CHAMPIONSQUEUE-LEADERBOARD): 🏆 CookieCutter template for generating MagicMirror modules
 #### Gaming
 - [LCU-Enhancement-Suite](https://github.com/xadamxk/LCU-Enhancement-Suite): 🎮 Enhancement suite for the League of Legends Client
 - [LeagueStats](https://github.com/xadamxk/LeagueStats):  Get live summoner stats (League of Legends)
