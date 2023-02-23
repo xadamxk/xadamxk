@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/Reddit-gray?style=flat&logo=reddit)](https://www.reddit.com/user/xadamxk/)
 
 #### Web Extensions
-- [HFX2.0](https://github.com/xadamxk/HFX2.0): 🧰 Native-web extension that adds over 50 features to hackforums.net
+- [HFX2.0](https://github.com/xadamxk/HFX2.0): 🧰 Native-web extension that adds over 50 features to popular tech forums
 - [LTE](https://github.com/xadamxk/LTE): 🔍 Easily cite elements for selenium based projects
 - [HFGS](https://github.com/xadamxk/HFGS): 🃏 Various tools for gaming & gambling on HF
 - [Userscripts](https://github.com/xadamxk/Userscripts): 📖 Userscripts for various websites
