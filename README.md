@@ -8,7 +8,7 @@
 - [HFX2.0](https://github.com/xadamxk/HFX2.0): 🧰 Native-web extension that adds over 50 features to popular tech forums
 - [LTE](https://github.com/xadamxk/LTE): 🔍 Easily cite elements for selenium based projects
 - [HFGS](https://github.com/xadamxk/HFGS): 🃏 Various tools for gaming & gambling on HF
-- [Userscripts](https://github.com/xadamxk/Userscripts): 📖 Userscripts for various websites
+- [Userscripts](https://github.com/xadamxk/Userscripts): 📖 Userscripts for popular websites
 - [HF-Userscipts](https://github.com/xadamxk/HF-Userscripts): 📃 List of my own HF userscripts
 #### Magic Mirror Modules
 - [MMM-LOLESPORTS-STANDINGS](https://github.com/xadamxk/MMM-LOLESPORTS-STANDINGS): 🥇 Display LOL Esports league standings on your magic mirror
