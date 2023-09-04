@@ -93,4 +93,6 @@
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"></img>
   <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"></img>
   <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"></img>
+
+  <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile">Badges</a>
 </details>
