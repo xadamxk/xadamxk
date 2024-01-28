@@ -4,6 +4,8 @@
 [![](https://img.shields.io/badge/Twitch-purple?style=flat&logo=twitch)](https://www.twitch.tv/xadamxk)
 [![](https://img.shields.io/badge/Reddit-gray?style=flat&logo=reddit)](https://www.reddit.com/user/xadamxk/)
 
+#### IDE Extensions
+- [Open-Git-Repository](https://github.com/xadamxk/vscode-OpenGitRepository): :globe_with_meridians: Open project repository links in your browser
 #### Web Extensions
 - [HFX2.0](https://github.com/xadamxk/HFX2.0): 🧰 Native-web extension that adds over 50 features to popular tech forums
 - [LTE](https://github.com/xadamxk/LTE): 🔍 Easily cite elements for selenium based projects
