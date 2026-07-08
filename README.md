@@ -7,6 +7,7 @@
 #### IDE Extensions
 - [Open-Git-Repository](https://github.com/xadamxk/vscode-OpenGitRepository): :globe_with_meridians: Open project repository links in your browser
 - [Prune-Stale-Git-Branches](https://github.com/xadamxk/vscode-PruneStaleBranches): :deciduous_tree: Prune all stale git branches in your project
+- [Claude-Blync](https://github.com/xadamxk/claude-blync): :rotating_light: Turn an Embrava Blynclight into a Claude Code status light — red when it needs you, green when it's done.
 #### Web Extensions
 - [HFX2.0](https://github.com/xadamxk/HFX2.0): 🧰 Native-web extension that adds over 50 features to popular tech forums
 - [LTE](https://github.com/xadamxk/LTE): 🔍 Easily cite elements for selenium based projects
